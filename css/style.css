@@ -9,7 +9,7 @@ body{
     color: white;
     line-height: 1.6;
     background-color: #0f172a;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .animation-container {
